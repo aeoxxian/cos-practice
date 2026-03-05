@@ -1,1 +1,3 @@
+# COS-Practice
+123
 This is a repository for the submission of assignments of the 2026-1 spring Computer Organizations and Systems course at KENTECH.
